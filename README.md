@@ -1,4 +1,5 @@
 # Matrix Calculator
+#### This is a project for a Python course.
 #### Description:
 A command-line matrix calculator built with NumPy.
 
@@ -10,7 +11,7 @@ Run the program with `python calculator.py`.
 
 Once you enter the amount of rows, you will be asked to input each row. Separate each number in a single row with a space. Press enter once you've typed all the numbers in a row.
 
-You are allowed to input integers or decimals as values.
+You can input integers or decimals as values.
 
     Rows: 3
     Enter rows, separate numbers with spaces:
